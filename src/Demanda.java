@@ -18,5 +18,6 @@ public class Demanda {
     private Time prazoElaboracao;
     private BUS BUSolicitante;
     private List<BUS> listaBUSBeneficiadas = new ArrayList<>();
+    private Solicitante solicitante;
 
 }
