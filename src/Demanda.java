@@ -20,4 +20,14 @@ public class Demanda {
     private List<BUS> listaBUSBeneficiadas = new ArrayList<>();
     private Solicitante solicitante;
 
+    public void atualizar() {
+    }
+
+    public List<Demanda> mostrarHistorico() {
+        return null;
+    }
+
+    public void adicionarHistorico() {
+    }
+
 }

@@ -1,4 +1,4 @@
-public class GerenteNegocio extends Solicitante implements Gerente{
+public class GerenteNegocio extends Solicitante implements Gerente {
 
 
 }

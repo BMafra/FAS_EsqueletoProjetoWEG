@@ -9,4 +9,7 @@ public class Pauta {
     private Date dataReuniaoPauta;
     private List<Proposta> listaPropostasPauta = new ArrayList<>();
 
+    private void infomarParecereComissao() {
+    }
+
 }

@@ -1,4 +1,5 @@
 import Enuns.Status;
+
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -14,5 +15,12 @@ public class Proposta {
     private List<AnalistaTI> listaResponsaveisProposta = new ArrayList<>();
     private Demanda demanda;
     private Status statusProposta;
+
+    private void iniciarWorkflow() {
+    }
+
+    public List<Proposta> propostasAprovadasWorkflow() {
+        return null;
+    }
 
 }

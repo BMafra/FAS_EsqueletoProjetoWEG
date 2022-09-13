@@ -1,5 +1,4 @@
-public class GerenteTI extends AnalistaTI implements Gerente{
-
+public class GerenteTI extends AnalistaTI implements Gerente {
 
 
 }
